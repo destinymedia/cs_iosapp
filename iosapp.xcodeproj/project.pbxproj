@@ -15,6 +15,7 @@
 		813DB0A81C8E292D00BEBCB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 813DB0A71C8E292D00BEBCB3 /* Assets.xcassets */; };
 		813DB0AB1C8E292D00BEBCB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813DB0A91C8E292D00BEBCB3 /* LaunchScreen.storyboard */; };
 		813DB0B41C8F46CB00BEBCB3 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 813DB0B31C8F46CB00BEBCB3 /* ThirdViewController.m */; };
+		81DD150A1C8F602D00AF35C6 /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 81DD15091C8F602D00AF35C6 /* readme.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		813DB0AC1C8E292D00BEBCB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		813DB0B21C8F46CB00BEBCB3 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
 		813DB0B31C8F46CB00BEBCB3 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		81DD15091C8F602D00AF35C6 /* readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		813DB0971C8E292D00BEBCB3 /* iosapp */ = {
 			isa = PBXGroup;
 			children = (
+				81DD15091C8F602D00AF35C6 /* readme.txt */,
 				813DB09B1C8E292D00BEBCB3 /* AppDelegate.h */,
 				813DB09C1C8E292D00BEBCB3 /* AppDelegate.m */,
 				813DB09E1C8E292D00BEBCB3 /* FirstViewController.h */,
@@ -148,6 +151,7 @@
 			files = (
 				813DB0AB1C8E292D00BEBCB3 /* LaunchScreen.storyboard in Resources */,
 				813DB0A81C8E292D00BEBCB3 /* Assets.xcassets in Resources */,
+				81DD150A1C8F602D00AF35C6 /* readme.txt in Resources */,
 				813DB0A61C8E292D00BEBCB3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
